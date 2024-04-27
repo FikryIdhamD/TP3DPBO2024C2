@@ -22,9 +22,7 @@ Pada program ini terdapat 3 tabel yaitu:
 2. Tabel Type berisi 2 atribut dengan atribut `type_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Pal
 3. Tabel Habitat berisi 2 atribut dengan atribut `habitat_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Pal.
 
-Dokumentasi Video:
-
-https://github.com/FikryIdhamD/TP3DPBO2024C2/assets/147605722/1db579f5-8643-4741-85b4-e1a50b8ed294
+Dokumentasi Video: Di Dalam File
 
 
 
