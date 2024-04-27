@@ -14,6 +14,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
 
 ## Desaign Program
 
+![Palworld_Database](https://github.com/FikryIdhamD/TP3DPBO2024C2/assets/147605722/5318d956-f97c-4800-89ab-85feb124ba9d)
 
 
 Pada program ini terdapat 3 tabel yaitu:
@@ -21,10 +22,4 @@ Pada program ini terdapat 3 tabel yaitu:
 2. Tabel Type berisi 2 atribut dengan atribut `type_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Pal
 3. Tabel Habitat berisi 2 atribut dengan atribut `habitat_id` sebagai primary keynya. Tabel ini memiliki relasi one to many dengan tabel Pal.
 
-Dokumentasi Video
-
-
-
-
-
-
+Dokumentasi Video: Di dalam File
