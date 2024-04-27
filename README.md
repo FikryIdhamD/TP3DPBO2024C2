@@ -24,6 +24,8 @@ Pada program ini terdapat 3 tabel yaitu:
 
 Dokumentasi Video:
 
-https://github.com/FikryIdhamD/TP3DPBO2024C2/assets/147605722/fe0ccb7e-2a3c-438d-ae97-93ca5bd9ba48
+https://github.com/FikryIdhamD/TP3DPBO2024C2/assets/147605722/1db579f5-8643-4741-85b4-e1a50b8ed294
+
+
 
 
